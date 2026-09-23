@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 19,341. Shipped: 13,498.
+Candidates: 19,341. Shipped: 14,076.
 
 Of 8 families, **7 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -19,11 +19,11 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `leipzig` | 0 | 0.0% | — |
-| 3 | `internetarchive` | 10,650 | 55.1% | +10,650 |
-| 4 | `granish.org` | 12,851 | 66.4% | +2,201 |
-| 5 | `tatoeba` | 13,189 | 68.2% | +338 |
-| 6 | `aravot.am` | 13,449 | 69.5% | +260 |
-| 7 | `azatutyun.am` | 13,488 | 69.7% | +39 |
-| 8 | `hetq.am` | 13,498 | 69.8% | +10 |
+| 3 | `internetarchive` | 12,049 | 62.3% | +12,049 |
+| 4 | `granish.org` | 13,544 | 70.0% | +1,495 |
+| 5 | `tatoeba` | 13,832 | 71.5% | +288 |
+| 6 | `aravot.am` | 14,040 | 72.6% | +208 |
+| 7 | `azatutyun.am` | 14,070 | 72.7% | +30 |
+| 8 | `hetq.am` | 14,076 | 72.8% | +6 |
 
-**Diminishing returns from family 5** (`tatoeba`, +338), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 5** (`tatoeba`, +288), where a family first added less than a twentieth of what the best one did.

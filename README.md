@@ -5,7 +5,7 @@ The Armenian word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Armenian.
 
-**13,498 of 19,341 candidates proved, 69.8%**, across 8 independent
+**14,076 of 19,341 candidates proved, 72.8%**, across 8 independent
 families, 7 of which a stranger could check by fetching.
 
 ## What is in this repository
@@ -47,16 +47,16 @@ only corroborate, and on a nearly full disk it bought nothing the rule counts.
 **Clean for a structural reason.** English and Russian cannot be spelled in Armenian script, so
 not one shipped word is in the English list, and a bilingual site is as good as a monolingual
 one. The validator here was hy.wiktionary page titles, which is the mistake that filled other
-lists with English; the script is what makes it harmless. The shelf is still thin: 15 of the 113
+lists with English; the script is what makes it harmless. The shelf is still thin: 25 of the 160
 Archive texts read cleared the legibility floor, the rest being other languages or bad OCR.
 
 **Where the drop list points.** The first build, with one publisher and 34 Archive texts, kept
-54.5%; this one, with four publishers and 113 texts, keeps 69.8%. 3,234 of the 4,053 words still
-one family short are attested by Leipzig and Wikipedia and nothing else: ԱԲՈՐԻԳԵՆ, ԱԲՍՏՐԱԿՑԻԱ.
-They need one more modern voice; Hetq gave the harvest a single page, so more of it and further
-Armenian publishers are the next step.
+54.5%; this one, with four publishers and 160 texts (25 legible), keeps 72.8%. 2,701 of the 3,675
+words still one family short are attested by Leipzig and Wikipedia and nothing else: ԱԲՈՐԻԳԵՆ,
+ԱԲՍՏՐԱԿՑԻԱ. They need one more modern voice; Hetq gave the harvest a single page, so more of it
+and further Armenian publishers are the next step.
 
-**Tiles.** Every one of the 38 tiles spells some shipped word; Է (93) and Ֆ (171) are the rarest.
+**Tiles.** Every one of the 38 tiles spells some shipped word; Է (99) and Ֆ (189) are the rarest.
 The ligature և is not a tile and folds to the letters it is made of.
 
 ## Rebuilding

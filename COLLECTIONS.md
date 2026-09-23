@@ -14,8 +14,8 @@ collection rather than reuse its record only has to put the file back where the 
 | --- | ---: | --- | --- |
 | `wiki:hy` | 110,307,029 |  | — |
 | `lz:hye-am_web_2013_1M` | 3,363,859 |  | — |
+| `ia` | 3,029,572 | Internet Archive Armenian books — literature, and the register a newspaper never reaches | [archive-hy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Armenian%22+OR+language%3A%22hye%22+OR+language%3A%22arm%22%29) |
 | `lz:hye-am_web_2017_1M` | 2,088,594 |  | — |
-| `ia` | 1,269,102 | Internet Archive Armenian books — literature, and the register a newspaper never reaches | [archive-hy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Armenian%22+OR+language%3A%22hye%22+OR+language%3A%22arm%22%29) |
 | `web:granish.org` | 283,127 |  | fetched from `granish.org`, recorded in `searched.tsv` |
 | `tat` | 176,593 |  | — |
 | `web:aravot.am` | 151,285 |  | fetched from `aravot.am`, recorded in `searched.tsv` |
