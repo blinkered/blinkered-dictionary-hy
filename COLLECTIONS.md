@@ -12,13 +12,16 @@ collection rather than reuse its record only has to put the file back where the 
 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
-| `wiki:hy` | 110,307,029 | Armenian Wikipedia — modern encyclopedic prose, and the list that proposed the candidates | [hywiki.xml.bz2](https://dumps.wikimedia.org/hywiki/latest/hywiki-latest-pages-articles.xml.bz2) |
-| `lz:hye-am_web_2013_1M` | 3,363,859 | Leipzig hye-am_web_2013_1M — modern news and web text, cited by the page each sentence came from | [hye-am_web_2013_1M](https://downloads.wortschatz-leipzig.de/corpora/hye-am_web_2013_1M.tar.gz) |
-| `lz:hye-am_web_2017_1M` | 2,088,594 | Leipzig hye-am_web_2017_1M — modern news and web text, cited by the page each sentence came from | [hye-am_web_2017_1M](https://downloads.wortschatz-leipzig.de/corpora/hye-am_web_2017_1M.tar.gz) |
-| `ia` | 514,071 | Internet Archive Armenian books — literature, and the register a newspaper never reaches | [archive-hy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Armenian%22+OR+language%3A%22hye%22+OR+language%3A%22arm%22%29) |
-| `tat` | 176,593 | Tatoeba Armenian — contemporary and conversational, and small | [hye_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/hye/hye_sentences.tsv.bz2) |
-| `lz:hye_newscrawl_2011_100K` | 124,240 | Leipzig hye_newscrawl_2011_100K — modern news and web text, cited by the page each sentence came from | [hye_newscrawl_2011_100K](https://downloads.wortschatz-leipzig.de/corpora/hye_newscrawl_2011_100K.tar.gz) |
-| `web:granish.org` | 45,324 |  | fetched from `granish.org`, recorded in `searched.tsv` |
+| `wiki:hy` | 110,307,029 |  | — |
+| `lz:hye-am_web_2013_1M` | 3,363,859 |  | — |
+| `lz:hye-am_web_2017_1M` | 2,088,594 |  | — |
+| `ia` | 1,269,102 | Internet Archive Armenian books — literature, and the register a newspaper never reaches | [archive-hy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Armenian%22+OR+language%3A%22hye%22+OR+language%3A%22arm%22%29) |
+| `web:granish.org` | 283,127 |  | fetched from `granish.org`, recorded in `searched.tsv` |
+| `tat` | 176,593 |  | — |
+| `web:aravot.am` | 151,285 |  | fetched from `aravot.am`, recorded in `searched.tsv` |
+| `lz:hye_newscrawl_2011_100K` | 124,240 |  | — |
+| `web:azatutyun.am` | 5,170 |  | fetched from `azatutyun.am`, recorded in `searched.tsv` |
+| `web:hetq.am` | 598 |  | fetched from `hetq.am`, recorded in `searched.tsv` |
 
 Totals are playable tokens after folding, not bytes. A collection missing from this table was
 never scanned; one present with no link was fetched by hand and its path is given instead.

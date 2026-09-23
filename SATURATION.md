@@ -8,9 +8,9 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 19,341. Shipped: 10,540.
+Candidates: 19,341. Shipped: 13,498.
 
-Of 5 families, **4 can be checked by fetching** —
+Of 8 families, **7 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
 somebody else made, whose locators record where they found the sentence; the document that holds
 it is their published corpus, not the web.
@@ -19,8 +19,11 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `leipzig` | 0 | 0.0% | — |
-| 3 | `internetarchive` | 8,565 | 44.3% | +8,565 |
-| 4 | `granish.org` | 9,754 | 50.4% | +1,189 |
-| 5 | `tatoeba` | 10,540 | 54.5% | +786 |
+| 3 | `internetarchive` | 10,650 | 55.1% | +10,650 |
+| 4 | `granish.org` | 12,851 | 66.4% | +2,201 |
+| 5 | `tatoeba` | 13,189 | 68.2% | +338 |
+| 6 | `aravot.am` | 13,449 | 69.5% | +260 |
+| 7 | `azatutyun.am` | 13,488 | 69.7% | +39 |
+| 8 | `hetq.am` | 13,498 | 69.8% | +10 |
 
-No family after the third fell below a twentieth of the best single gain: this language was still being paid for every source it consulted.
+**Diminishing returns from family 5** (`tatoeba`, +338), where a family first added less than a twentieth of what the best one did.
